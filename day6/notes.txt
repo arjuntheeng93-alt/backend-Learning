@@ -1,0 +1,3 @@
+hello from day 6
+Learning files I/o
+I can do it
